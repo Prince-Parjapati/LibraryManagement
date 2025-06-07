@@ -1,11 +1,11 @@
-##Build
+## Build
 ```
 mkdir build
 cd build
 cmake ..
 cmake --build .
 ```
-##How to use
+## How to use
 ```
 ./main
 ```
