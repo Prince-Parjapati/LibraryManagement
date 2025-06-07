@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/Auth.cpp.o CMakeFiles/main.dir/src/Book.cpp.o CMakeFiles/main.dir/src/Library.cpp.o CMakeFiles/main.dir/src/User.cpp.o -o main 

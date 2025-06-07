@@ -1,3 +1,0 @@
-/home/parjapati/Desktop/LibraryManagementSystem/build/CMakeFiles/main.dir
-/home/parjapati/Desktop/LibraryManagementSystem/build/CMakeFiles/edit_cache.dir
-/home/parjapati/Desktop/LibraryManagementSystem/build/CMakeFiles/rebuild_cache.dir
